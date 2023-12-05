@@ -24,11 +24,11 @@ spamassassin    ok
 
 to install directly use the command 
 
-# email server # 
+## email server 
 curl -LO https://raw.githubusercontent.com/ittca/twmail/main/twmail.sh && sh twmail.sh
 
-# spam assassin # (optional)
+# spam assassin (optional)
 curl -LO https://raw.githubusercontent.com/ittca/twmail/main/spam.sh && sh spam.sh
 
-# create user # 
+# create user 
 curl -LO https://raw.githubusercontent.com/ittca/twmail/main/mailuser.sh && sh mailuser.sh
